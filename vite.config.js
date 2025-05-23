@@ -5,6 +5,6 @@ import tailwindcss from "@tailwindcss/vite";
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: "/Elham.Nakhkoob-Portfolio/", // 👈 Add this line
+  base: "/Elham.Nakhkoob-Portfolio/", // 👈 Add this line this is new
   plugins: [react(), tailwindcss()],
 });
